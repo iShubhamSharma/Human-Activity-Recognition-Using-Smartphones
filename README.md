@@ -3,6 +3,7 @@
 **Coursera Getting & Cleaning Data Project**
 
 In this project, data is collected from the accelerometer and gyroscope of the Samsung Galaxy S II smartphone, worked with, and cleaned, to prepare a tidy data that can be used for later analysis.
+The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist
 
 ## This repository contains the following files:
 
