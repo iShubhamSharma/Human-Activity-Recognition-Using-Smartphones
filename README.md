@@ -12,3 +12,6 @@ For each record it is provided:
 * A 561-feature vector with time and frequency domain variables. 
 * Its activity label
 * An identifier of the subject who carried out the experiment.
+
+**Snapshot of the TidyData set in Tableau**
+![](Images/TidyData.png)
