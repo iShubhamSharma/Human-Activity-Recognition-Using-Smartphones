@@ -19,7 +19,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The R script _`run_analysis.R`_ can be used to create the data set. It retrieves the source data set and transforms it to produce the final data set by implementing the following steps (see the Code book for details, as well as the comments in the script itself):
 
-* Download and unzip source data if it doesn't exist.
+* [Download](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip source data if it doesn't exist.
 * Read data.
 * Merge the training and the test sets to create one data set.
 * Extract only the measurements on the mean and standard deviation for each measurement.
