@@ -11,7 +11,7 @@ In this project, data is collected from the accelerometer and gyroscope of the S
 * **`CodeBook.md`**, the code book, which describes the contents of the data set (data, variables and other relevant information).
 * **`run_analysis.R`**, the R script that was used to create the data set (see the Creating the data set section below)
 
-**The training and test sets were merged to create one data set i.e the _`tidyData.txt_`**
+**The training and test sets were merged to create one data set i.e the _`tidyData.txt`_**
 
 ## Creating the data set
 
