@@ -13,5 +13,9 @@ For each record it is provided:
 * Its activity label
 * An identifier of the subject who carried out the experiment.
 
+**The training and test sets were merged to create one data set i.e the TidyData**
+
+
 **Snapshot of the TidyData set in Tableau**
+
 ![](Images/TidyData.png)
