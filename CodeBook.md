@@ -1,4 +1,6 @@
-The data set that this code book pertains to is located in the tidyData.txt file of this repository.
+# _Coursera Getting & Cleaning Data Project_
+
+The data set that this code book pertains to is located in the _tidyData.txt_ file of this repository.
 
 See the README.md file of this repository for background information on this data set.
 
